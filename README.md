@@ -3,7 +3,7 @@
 ## How it Works:
 
 1. User gives a keyword for image search
-2. The Keyword wouls be searched in Google Images
+2. The Keyword would be searched in Google Images
 3. The Results would be displayed to the user and stored in a folder
 4. If the user searches the same keyword, the already downloaded images in folder will be deleted and replaced by new images
 
