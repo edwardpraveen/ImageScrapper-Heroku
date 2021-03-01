@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  8 11:30:55 2019
 
-@author: Jiwitesh_Sharma
+@author: Edward Praveen
 """
 import os
 class ImageScrapperUtils:
